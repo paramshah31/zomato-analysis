@@ -7,9 +7,12 @@
 
 ## Data Manipulation
 * We join the order table with country table
+![](https://github.com/paramshah31/zomato-analysis/blob/main/images/country.png)
 
 ## EDA
 * Rating Distribution
+![](https://github.com/paramshah31/zomato-analysis/blob/main/images/ratings.png)
+
 
 ## Conclusion
 * India contributes **94.4%** of total revenue
